@@ -75,9 +75,6 @@ p{
     line-height: 1.75rem;
 }
 
-
-
-
 /* header part start  */
 header{
     height: 700px;
@@ -100,7 +97,6 @@ header{
     color: white;
     opacity: 0.7;
 }
-
 /* header part end  */
 /* main part start  */
 main{
@@ -131,8 +127,6 @@ main{
     margin-top: 24px;
     margin-bottom: 24px;
 }
-
-
 .cart-description{
     color: rgb(16,16,16);
     margin-bottom: 64px;
@@ -141,13 +135,11 @@ main{
 /* footer part start */
 footer{   
     justify-content: space-between;
-    gap: 30px;
-    /* background-color: blue; */
+    gap: 30px;   
 }
 .footer-image{    
     width: 40%;
     height: 520px;
-    border: 5px solid red;
 }
 .footer-content{
     flex-direction: column;
